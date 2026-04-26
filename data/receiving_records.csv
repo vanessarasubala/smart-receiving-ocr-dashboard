@@ -1,0 +1,1 @@
+record_id,created_at,received_date,po_number,supplier,item_code,expected_supplier,expected_item_code,expected_qty,received_qty,qty_difference,status,workflow_status,validation_message,source,review_notes

@@ -5,6 +5,3 @@ __pycache__/
 
 # Streamlit secrets
 .streamlit/secrets.toml
-
-# Runtime test data
-data/receiving_records.csv
