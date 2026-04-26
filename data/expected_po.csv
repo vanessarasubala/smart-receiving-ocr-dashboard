@@ -1,0 +1,6 @@
+po_number,supplier,item_code,expected_qty,unit,expected_date
+PO-1001,ABC Electronics,DRAM-8GB,500,pcs,2026-04-01
+PO-1002,Global Components,NAND-256GB,300,pcs,2026-04-02
+PO-1003,Semicon Supply Co,WAFER-A12,120,box,2026-04-03
+PO-1004,Precision Parts Ltd,PCB-X900,800,pcs,2026-04-04
+PO-1005,Advanced Packaging,CHIP-CASE-01,1000,pcs,2026-04-05
